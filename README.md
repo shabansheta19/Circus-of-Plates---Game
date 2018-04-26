@@ -5,4 +5,4 @@
 *- You can find the main function in src/(default package)/Game.java
     AND in src/View/Game.java
 - This project was done by the team of:
-   (Mostafa Tarek Ibrahim - Omar Ahmed Foad- Sherif Mohammed Abd-alrahman)
+   (Mostafa Tarek Ibrahim - Omar Ahmed Foad- Sherif Mohammed Abd-alrahman Shaban Sheta)
